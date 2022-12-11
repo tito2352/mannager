@@ -1,0 +1,2 @@
+# mannager
+user mannager
